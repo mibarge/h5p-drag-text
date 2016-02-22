@@ -85,7 +85,8 @@
 .h5p-drag-text .h5p-drag-dropzone {
   position:relative;
   top: -0.1em;
-  width: 10em;
+  /*width: 10em;*/
+  width:auto;
   height: 1.25em;
   background-color: #cee0f4;
   border-radius: 0.25em;
